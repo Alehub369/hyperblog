@@ -2,3 +2,6 @@ Esta es la historia de A
 
 A tiene 42 años y nació en Colombia,
 viviendo en algunas ciudades.
+
+Y volvemos a mirar como es soft.
+Quiero saber si borra lo commits y este parrafo.
