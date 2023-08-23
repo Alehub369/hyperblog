@@ -7,3 +7,5 @@ Y volvemos a mirar como es soft.
 Quiero saber si borra lo commits y este parrafo.
 
 Prueba de un check out.
+
+Este va a ser mi ultima version guardada por ahora.
