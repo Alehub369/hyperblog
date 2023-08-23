@@ -5,3 +5,5 @@ viviendo en algunas ciudades.
 
 Y volvemos a mirar como es soft.
 Quiero saber si borra lo commits y este parrafo.
+
+Prueba de un check out.
